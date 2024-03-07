@@ -22,4 +22,3 @@ if(e.target.id=='yellow'){
 
 
 
-
